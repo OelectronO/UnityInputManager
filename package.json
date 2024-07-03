@@ -1,0 +1,18 @@
+{
+  "name": "be.mathysboutry.untyinputmanager",
+  "version": "0.0.1",
+  "displayName": "Unity Input Manager",
+  "description": "unity input",
+  "unity": "2022.3",
+  "dependencies": {
+ },
+ "keywords": [
+    "unity",
+    "input"
+  ],
+  "author": {
+    "name": "Mathys",
+    "email": "unitoijezgezogijezhgiuezgoiezgnezelzfpezofy@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
