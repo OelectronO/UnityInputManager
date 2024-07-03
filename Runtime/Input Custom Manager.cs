@@ -55,5 +55,6 @@ public class InputCustomManager : MonoBehaviour
         }
 
         private void Thruster(InputAction.CallbackContext context) => m_input2.SetNewValue(context.ReadValueAsButton());
+
     }
 }
